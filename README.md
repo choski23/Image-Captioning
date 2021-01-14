@@ -1,13 +1,13 @@
 # Image-Captioning
 
-## Overview:
+## Overview
 The goal of this project was to combine neural networks to generate image captions using both computer vision natural language tools. 
 My inspiration to learn more about this topic was the Microsoft SeeingAI app and [Fei Fei Li's 2015 Ted Talk](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures) about teaching computers to understand pictures. 
 The code for this project is mainly adapted from a TensorFlow tutorial.
 
 <img src="img/Motivation.png" width = “700”>
 
-## Data and Tools:
+## Data and Tools
   Data: 50,000 images and captions from the [MS COCO dataset 2014](https://cocodataset.org/#download)
   Tools: TensorFlow and Python
   
